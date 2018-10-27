@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
- 
+# Version 1
+
 from tkinter import *           # 导入 Tkinter 库
 root = Tk()                     # 创建窗口对象的背景色
                                 # 创建两个列表
